@@ -1,6 +1,6 @@
 ### Hi there, I'm Devjit - aka [devartstar][website] 👋
 
-[![Website](https://img.shields.io/website?label=devartstar.com&style=for-the-badge&url=https%3A%2F%2Fdevartstar.com)](https://devartstar.github.io/Portfolio/)
+[![Website](https://img.shields.io/website?label=devartstar.com&style=for-the-badge&url=https%3A%2F%2Fdevartstar.com)](https://www.devjitchoudhury.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atr_si_luv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjit-choudhury-717915151/)
 
